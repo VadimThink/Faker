@@ -1,0 +1,9 @@
+C:\Users\Think\Desktop\Labs\3 course\SPP\NewFaker\Faker\SongsGenerator\bin\Debug\SongsGenerator.dll
+C:\Users\Think\Desktop\Labs\3 course\SPP\NewFaker\Faker\SongsGenerator\bin\Debug\SongsGenerator.pdb
+C:\Users\Think\Desktop\Labs\3 course\SPP\NewFaker\Faker\SongsGenerator\bin\Debug\Generator.dll
+C:\Users\Think\Desktop\Labs\3 course\SPP\NewFaker\Faker\SongsGenerator\bin\Debug\Generator.pdb
+C:\Users\Think\Desktop\Labs\3 course\SPP\NewFaker\Faker\SongsGenerator\obj\Debug\SongsGenerator.csproj.AssemblyReference.cache
+C:\Users\Think\Desktop\Labs\3 course\SPP\NewFaker\Faker\SongsGenerator\obj\Debug\SongsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Think\Desktop\Labs\3 course\SPP\NewFaker\Faker\SongsGenerator\obj\Debug\SongsGenerator.csproj.CopyComplete
+C:\Users\Think\Desktop\Labs\3 course\SPP\NewFaker\Faker\SongsGenerator\obj\Debug\SongsGenerator.dll
+C:\Users\Think\Desktop\Labs\3 course\SPP\NewFaker\Faker\SongsGenerator\obj\Debug\SongsGenerator.pdb
